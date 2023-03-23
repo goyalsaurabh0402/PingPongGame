@@ -1,0 +1,41 @@
+#canvas {
+    background-color: #2f4f4f;
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+    border: 2px solid white;
+  }
+  
+  #score {
+    color: white;
+    text-align: center;
+    font-size: 48px;
+    margin-top: 20px;
+  }
+  
+  #user-score {
+    display: inline-block;
+    margin-right: 100px;
+  }
+  
+  #ai-score {
+    display: inline-block;
+    margin-left: 100px;
+  }
+  
+  #message {
+    color: white;
+    text-align: center;
+    font-size: 48px;
+    margin-top: 50px;
+    display: none;
+  }
+  
+  #start-button {
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+    font-size: 24px;
+    padding: 10px 20px;
+  }
+  
